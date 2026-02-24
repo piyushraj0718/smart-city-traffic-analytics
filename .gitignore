@@ -7,4 +7,5 @@ __pycache__/
 *.pyd
 .ipynb_checkpoints
 data/raw/
-data/processed/
+data/processed/*
+!data/processed/sample_accidents.csv
