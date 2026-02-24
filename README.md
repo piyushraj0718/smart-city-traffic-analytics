@@ -1,5 +1,13 @@
 # Smart City Traffic & Accident Risk Analytics System
 
+
+##  Live Demo
+
+Streamlit App:  https://smart-city-traffic-analytics.streamlit.app/
+GitHub Repository: https://github.com/piyushraj0718/smart-city-traffic-analytics
+
+
+
 ## 1. Project Overview
 
 This project is an end-to-end data analytics and machine learning system designed to analyze road accident patterns and predict accident severity.
