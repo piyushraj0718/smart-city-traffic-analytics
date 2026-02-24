@@ -66,6 +66,18 @@ After cleaning and preprocessing:
 
 * Date & Time
 
+## Dataset Note (Deployment Version)
+
+The original dataset used for training contains approximately 368,000 cleaned accident records (UK Road Accident Dataset 2005–2014).
+
+Due to GitHub file size limitations, the full processed dataset is not included in this repository.
+
+For demonstration and deployment purposes, a representative sample dataset is included in:
+
+data/processed/sample_accidents.csv
+
+The trained ML model, SHAP analysis, and forecasting modules were built using the complete dataset.
+
 ## 4. System Architecture
 
 The project follows a modular structure:
