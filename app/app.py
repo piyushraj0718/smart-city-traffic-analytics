@@ -59,7 +59,7 @@ footer {visibility: hidden;}
 # PATHS
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_PATH = os.path.join(BASE_DIR, "data", "processed", "ml_ready_accidents.csv")
+DATA_PATH = os.path.join(BASE_DIR, "data", "processed", "sample_accidents.csv")
 MODEL_PATH = os.path.join(BASE_DIR, "models", "trained_models", "best_model.pkl")
 FORECAST_PATH = os.path.join(BASE_DIR, "reports", "forecast", "30_day_forecast.csv")
 HEATMAP_PATH = os.path.join(BASE_DIR, "reports", "heatmap", "advanced_accident_heatmap.html")
